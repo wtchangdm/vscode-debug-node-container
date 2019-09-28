@@ -1,2 +1,4 @@
 # vscode-debug-node-container
-Example of how to debug node in container with VSCode
+
+This repo shows how to attach debugger to a node program in container.
+

@@ -1,0 +1,8 @@
+{
+  "name": "vscode-debug-node-container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wtchangdm/vscode-debug-node-container.git",
+  "author": "W.T. Chang <wtchangdm@gmail.com>",
+  "license": "MIT"
+}
